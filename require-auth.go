@@ -1,4 +1,4 @@
-package github.com/borismartinovic01/jwt-middleware
+package middleware
 
 import (
 	"fmt"
