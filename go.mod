@@ -1,4 +1,4 @@
-module jwt-middleware
+module borismartinovic01/jwt-middleware
 
 go 1.22.0
 
